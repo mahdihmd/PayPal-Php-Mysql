@@ -11,7 +11,7 @@ Paypal Payment with Php Mysql
 
 Download with Git : ```git clone https://github.com/mahdihmd/PayPal-Php-Mysql.git```
 
-<b>Introduction</b> 
+## Introduction
 
 You can use this script for PayPal Business Payments. In this script all payments and transactions are stored in my sql database and you can manage and track all transactions.
 
