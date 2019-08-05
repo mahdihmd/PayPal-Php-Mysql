@@ -35,7 +35,7 @@ $paypalConfig = [
 ];
 ```
 
-<b>What does it do?</b> 
+<b>How does it work?</b> 
 
 You first run this page and enter the amount and currency type and press the Submit button to send the payment to Paypal
 ```/paypal/index.php```
